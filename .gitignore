@@ -36,12 +36,7 @@ Thumbs.db
 *.tmp
 *.log
 *.bak
-
-# Test files
-test/
-tests/
-*.test.js
-*.test.py
+article_summary_*.md
 
 # Build
-*.zip
+article-collector-v1.0.zip
