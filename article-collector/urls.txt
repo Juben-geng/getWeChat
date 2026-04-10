@@ -1,0 +1,11 @@
+# 文章链接示例文件
+# 每行一个链接，支持微信公众号文章和普通网页
+
+# 微信公众号文章示例
+# https://mp.weixin.qq.com/s/xxxxx
+
+# 普通网页示例
+# https://example.com/article/xxxxx
+
+# 使用方法：
+# python3 collector.py --file urls.txt
